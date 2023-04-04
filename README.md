@@ -24,26 +24,32 @@ I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech f
 - Android app development using **Android Studio**(Still learning)
 - Solving Data structure and algorithm questions in **Java**
 
-- 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
-  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://blog.i-xiao.space/)
-  [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://blog.i-xiao.space/)
-  [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://blog.i-xiao.space/)
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://blog.i-xiao.space/)
+- 🚀 Programing Language I Use:
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white
+  
+  
+  
 
 - 💻 I work using:
+  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)]
+  [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)]
+  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)]
+  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)]
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://blog.i-xiao.space/)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://blog.i-xiao.space/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://blog.i-xiao.space/)
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)]
+  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)]
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)]
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://blog.i-xiao.space/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://blog.i-xiao.space/)
-  [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://blog.i-xiao.space/)
+
 
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://blog.i-xiao.space/)
