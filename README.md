@@ -4,7 +4,7 @@
                                                                                                                                          
 <img src="https://github.com/zhouwenx1224/zhouwenx1224/blob/main/cvbox.org.notion-avatar-1677823595524.png" width="200" align="right"></img>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenxiongzhou/)](https://www.linkedin.com/in/suyash-srivastava-458b01173)
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenxiongzhou/)](https://www.linkedin.com/in/wenxiongzhou)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
 I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
