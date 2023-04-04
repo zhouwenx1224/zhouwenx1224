@@ -38,7 +38,7 @@ I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech f
   
   
 
-- 💻 I work using:
+- 💻 Technologies & Frameworks I use:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)
