@@ -12,7 +12,7 @@ I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech f
 ## 💻 Projects
 
 * [Full-Stack Food Delivery System](https://github.com/zhouwenx1224/reggie_food_delivery_system)
-* 😊**COMIN SOON...**
+* [Smart Tracker](https://zhouwenx1224.github.io/projects/tracker/)
 * [Portfolio](https://zhouwenx1224.github.io/)
 
 ## ⚡ Technologies
