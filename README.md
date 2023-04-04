@@ -64,5 +64,3 @@ I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech f
 - 🖼️ Portfolio site: [Portfolio](https://zhouwenx1224.github.io/)
 - 💎 Fun fact: You lose automatically if you dont try.
 
-
-https://segmentfault.com/a/1190000042260559
