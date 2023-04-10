@@ -7,7 +7,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenxiongzhou/)](https://www.linkedin.com/in/wenxiongzhou)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
-I am Wenxiong Zhou. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
+'''java
+public class Main {
+    public static void main(String[] args) {
+        Worker Wenxiong_Zhou = new Worker();
+        Wenxiong_Zhou.setName("Wenxiong Zhou");
+        Wenxiong_Zhou.setAge(25);
+        Wenxiong_Zhou.setEmail("wenxiong1224@gmail.com");
+        Wenxiong_Zhou.setPhone("347-387-1775");
+        Wenxiong_Zhou.setSchool("Columbia University");
+        Wenxiong_Zhou.setSchool("Indiana University Bloomington");
+        System.out.println(Wenxiong_Zhou.toString());
+
+    }
+}
+'''
 
 ## 💻 Projects
 
