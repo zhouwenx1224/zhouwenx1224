@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenxiongzhou/)](https://www.linkedin.com/in/wenxiongzhou)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
-'''java
+```java
 public class Main {
     public static void main(String[] args) {
         Worker Wenxiong_Zhou = new Worker();
@@ -21,7 +21,7 @@ public class Main {
 
     }
 }
-'''
+```
 
 ## 💻 Projects
 
