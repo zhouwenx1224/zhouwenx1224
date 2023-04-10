@@ -31,12 +31,6 @@ public class Main {
 
 ## ⚡ Technologies
 
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **SQL,PHP**
-- Worked with **Active Directories**
-- Leaning Web Design with Figma
-- Android app development using **Android Studio**(Still learning)
-- Solving Data structure and algorithm questions in **Java**
 
 - 🚀 Programing Language I Use:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
