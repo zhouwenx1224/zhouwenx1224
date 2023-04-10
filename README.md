@@ -18,7 +18,6 @@ public class Main {
         Wenxiong_Zhou.setSchool("Columbia University");
         Wenxiong_Zhou.setSchool("Indiana University Bloomington");
         System.out.println(Wenxiong_Zhou.toString());
-
     }
 }
 ```
